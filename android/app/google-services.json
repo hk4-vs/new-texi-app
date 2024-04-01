@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408999501400",
+    "project_id": "new-texi-app",
+    "storage_bucket": "new-texi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408999501400:android:172851497abd620f58f42d",
+        "android_client_info": {
+          "package_name": "com.example.new_texi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtsuu6re8BaZko4yP4j1ODei6q_ML_bO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
